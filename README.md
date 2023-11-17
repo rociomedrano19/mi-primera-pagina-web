@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> trabaja de la mano con  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> para crear paginas web que usamos todos los dias en el navegador.
 
 ### 2. Qué construí 
-EUna pagina web en la que se muestran gatitos tiernos.
+Una pagina web en la que se muestran gatitos tiernos.
   Las tecnologias que utilicé, son:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
